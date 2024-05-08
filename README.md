@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I+am+Chad;And+You??? />
 </h1>
 
-<h3 align="center">A software developer from Georgia</h3>
+<h3 align="center">Future software developer from Georgia</h3>
 
 <br/>
 
@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,python,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,python" />
 </div>
 
 <br/>
